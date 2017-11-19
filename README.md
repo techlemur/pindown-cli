@@ -2,6 +2,9 @@
 
 >  Cli tool for downloading entire albums from Pinterest
 
+[![Build Status](https://travis-ci.org/brpaz/pindown-cli.svg?branch=master)](https://travis-ci.org/brpaz/pindown-cli)
+[![npm](https://img.shields.io/npm/dt/pindown-cli.svg)]()
+
 ## Why I build this tool?
 
 I use [Pinterest](http://pinterest.com) a lot for saving images I found in the web that I want to keep for later. I wanted a way to save all that images to my Laptop for backup purposes and better organization.
