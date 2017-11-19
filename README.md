@@ -1,6 +1,6 @@
 # Pindown-cli
 
->  Cli tool for downloading entire albums from Pinterest
+>  cli tool for downloading entire boards from Pinterest
 
 [![Build Status](https://travis-ci.org/brpaz/pindown-cli.svg?branch=master)](https://travis-ci.org/brpaz/pindown-cli)
 [![npm](https://img.shields.io/npm/dt/pindown-cli.svg)]()
