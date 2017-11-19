@@ -1,6 +1,6 @@
 {
   "name": "pindown-cli",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "cli tool for downloading entire boards from Pinterest",
   "main": "index.js",
   "repository": "https://github.com/brpaz/pindown-cli",
@@ -22,6 +22,7 @@
     "node-pinterest": "^0.0.4",
     "piexifjs": "^1.0.3",
     "progress": "^2.0.0",
+    "slug": "^0.9.1",
     "yargs": "^10.0.3"
   },
   "devDependencies": {
