@@ -1,0 +1,30 @@
+{
+  "name": "pindown-cli",
+  "version": "0.1.0",
+  "description": "Cli tool for downloading entire albums from Pinterest",
+  "main": "index.js",
+  "repository": "https://github.com/brpaz/pindown-cli",
+  "author": "Bruno Paz",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "node_modules/.bin/eslint .",
+    "lint:fix": "node_modules/.bin/eslint . --fix"
+  },
+  "bin": {
+    "pindown": "bin/pindown"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "fs-extra": "^4.0.2",
+    "image-downloader": "^3.3.0",
+    "lodash": "^4.17.4",
+    "node-pinterest": "^0.0.4",
+    "piexifjs": "^1.0.3",
+    "progress": "^2.0.0",
+    "yargs": "^10.0.3"
+  }
+}

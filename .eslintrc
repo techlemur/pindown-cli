@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "comma-dangle": "off",
+    "no-restricted-syntax": "warn",
+    "max-len": "warn",
+    "no-console": "off",
+    "padded-blocks": "off",
+    "no-await-in-loop": "off",
+    "prefer-destructuring": "warn",
+    "class-methods-use-this": "off"
+  }
+}
